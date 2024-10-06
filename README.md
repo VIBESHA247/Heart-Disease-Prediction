@@ -1,7 +1,9 @@
-#Heart Disease Prediction
+**Heart Disease Prediction
+
 This project focuses on building a machine learning model to predict heart disease based on a dataset of patients' health metrics. The goal is to classify the presence or absence of heart disease using various machine learning algorithms.
 
 Requirements
+
 The project is implemented in Python, using the following libraries:
 
 pandas
